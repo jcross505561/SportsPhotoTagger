@@ -1,0 +1,18 @@
+﻿{
+    "sports":  [
+                   "Baseball",
+                   "Basketball",
+                   "Cross Country",
+                   "Football",
+                   "Golf",
+                   "Lacrosse",
+                   "Soccer",
+                   "Softball",
+                   "Volleyball",
+                   "Wrestling"
+               ],
+    "activities":  [
+                       "Band",
+                       "Cheerleading"
+                   ]
+}

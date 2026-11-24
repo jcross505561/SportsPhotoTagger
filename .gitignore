@@ -1,0 +1,28 @@
+# Allow only source, documentation, and starter settings.
+/*
+!/.gitignore
+!/README.md
+!/SportsPhotoTagger.cmd
+
+!/00_Admin/
+/00_Admin/*
+!/00_Admin/Scripts/
+/00_Admin/Scripts/*
+!/00_Admin/Scripts/Add-KeywordToTestImage.ps1
+!/00_Admin/Scripts/GuidedRosterSources.ps1
+!/00_Admin/Scripts/GuidedSportsPhotoTagger.ps1
+!/00_Admin/Scripts/PhotoCaptureTime.ps1
+!/00_Admin/Scripts/RosterIdentity.ps1
+!/00_Admin/Scripts/RosterKeywordReview.ps1
+!/00_Admin/Scripts/SportsPhotoTaggerWindow.ps1
+!/00_Admin/Scripts/Test-FolderKeywords.ps1
+
+!/06_Sports Reference/
+/06_Sports Reference/*
+!/06_Sports Reference/Photo Keyword Reference/
+/06_Sports Reference/Photo Keyword Reference/*
+!/06_Sports Reference/Photo Keyword Reference/Keywords.json
+!/06_Sports Reference/Photo Keyword Reference/Teams.json
+!/06_Sports Reference/Photo Keyword Reference/Rosters/
+/06_Sports Reference/Photo Keyword Reference/Rosters/*
+!/06_Sports Reference/Photo Keyword Reference/Rosters/.gitignore
